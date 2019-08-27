@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>See CompositionCounter.vue in compoents</p>
   </div>
 </template>
 

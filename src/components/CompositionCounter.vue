@@ -15,7 +15,7 @@
       <div>Tripled : {{ tripleCount }}</div>
     </div>
     <br>
-    <div>{{ anotherCounter }}</div>
+    <div>Another Counter : {{ anotherCounter }}</div>
     <br>
     <div>User Name from outside function => 
       <pre style="text-align: left;">{{ userState }}</pre>
